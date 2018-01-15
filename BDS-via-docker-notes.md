@@ -7,7 +7,7 @@ Found some pre-built docker LAMP stack things, available on github.
 So - had to learn to use git hub.
 Adding these notes to my 'hello-world' github repo.
 
-Have so far figured out how to 'edit' - clone - edit - pull request - merge (I think is the order of things) - and have now cloned two BRightspace repos: valence-sdk-php, and oauth2.0-client-example.
+Have so far figured out how to 'edit' - clone - edit - pull request - merge (I think is the order of things) - and have now cloned two Brightspace repos: valence-sdk-php, and oauth2.0-client-example.
 
 Next up: still not sure if I need to better understand, and be able to execute on OAuth2, or php, or?  what's next?
 
